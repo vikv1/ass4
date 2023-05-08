@@ -1,2 +1,6 @@
-# ass4
-assignment 4
+# Skiplist
+
+Goals: Working with pointers and linked lists
+
+
+
