@@ -133,8 +133,8 @@ void test4() {
 }
 
 int main() {
-    test1(); // testing file push 5/8 again
-    test2(); // testing file push 5/8 again
+    test1(); // one more test i think
+    test2();
     test3();
     test4();
     cout << "Done." << endl;
