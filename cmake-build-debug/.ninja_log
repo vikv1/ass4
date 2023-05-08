@@ -1,7 +1,0 @@
-# ninja log v5
-4	421	7049231432025798	CMakeFiles/ass4.dir/main.cpp.obj	3a6c1db467c28f7a
-421	605	7049231433738576	ass4.exe	e4cf600b52772335
-13	285	7049393194198285	CMakeFiles/ass4.dir/random.cpp.obj	308904d7d015d907
-5	482	7049393196191780	CMakeFiles/ass4.dir/main.cpp.obj	3a6c1db467c28f7a
-9	564	7049393197020118	CMakeFiles/ass4.dir/skiplist.cpp.obj	a5ef94ff0e8f6795
-565	698	7049393198300176	ass4.exe	36eafdea92a66799
