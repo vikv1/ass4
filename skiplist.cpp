@@ -14,3 +14,26 @@ bool SkipList::shouldInsertAtHigherLevel() const {
 }
 
 // you code goes here
+
+// constructor
+SkipList::SkipList(int argLevels){
+
+    levels = argLevels; // note if input negative values
+    head->next.resize(levels, nullptr); // set levels
+
+}
+
+// copy constructor
+SkipList::SkipList(const SkipList &other){
+
+}
+
+// operator<< for printing can access val directly
+ostream &operator<<(ostream &out, const SkipList &skip){
+
+}
+
+// return true if found in SkipList
+bool SkipList::contains(int val) const{
+
+}

@@ -76,6 +76,10 @@ private:
     vector<SNode *> getBeforeNodes(int val) const;
 
 public:
+
+    // constructor
+    SkipList(int argLevels);
+
     // default SkipList has Depth of 1, just one doubly-linked list
     explicit SkipList(int levels = 1, int probability = 0);
 
